@@ -1,0 +1,15 @@
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/bin/Debug/net8.0/FinanceManagement
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/bin/Debug/net8.0/FinanceManagement.deps.json
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/bin/Debug/net8.0/FinanceManagement.runtimeconfig.json
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/bin/Debug/net8.0/FinanceManagement.dll
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/bin/Debug/net8.0/FinanceManagement.pdb
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/obj/Debug/net8.0/FinanceManagement.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/obj/Debug/net8.0/FinanceManagement.AssemblyInfoInputs.cache
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/obj/Debug/net8.0/FinanceManagement.AssemblyInfo.cs
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/obj/Debug/net8.0/FinanceManagement.csproj.CoreCompileInputs.cache
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/obj/Debug/net8.0/FinanceManagement.sourcelink.json
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/obj/Debug/net8.0/FinanceManagement.dll
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/obj/Debug/net8.0/refint/FinanceManagement.dll
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/obj/Debug/net8.0/FinanceManagement.pdb
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/obj/Debug/net8.0/FinanceManagement.genruntimeconfig.cache
+/workspaces/dcit318-assignment3-11220227/FinanceManagement/obj/Debug/net8.0/ref/FinanceManagement.dll
